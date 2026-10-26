@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+
+}
+
+body{ 
+    background-color: aquamarine;
+    color: #222;
+    border-radius: 10%;
+
+}
+.border{
+    border: #222;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+
+}
+.article{
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 10px;
+
+}
+.persimmon-image {
+    width: 50%;
+    height: 20%;
+    margin-bottom: 55px;
+}
+
+.intro{
+    font-size:19px;
+    line-height: 1.4;
+    margin-bottom: 45px;
+    text-align:justify;
+
+}
+
+h1{
+    font-size: 75px;
+    font-weight: normal;
+    line-height: 1.05;
+    text-align:center;
+    margin-bottom: 45px;
+
+}
+
+.content{
+    font-size: 19px;
+    line-height: 1.35;
+    text-align:justify;
+    margin-bottom: 28px;
+}
+
+.author{
+    font-size: 18px;
+    font-style:italic;
+    text-align:center;
+    margin-bottom: 40px;
+    margin-top: 65px;
+
+}
